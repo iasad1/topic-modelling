@@ -65,6 +65,7 @@ As with any Machine Learning problem, the code covers the following key stages -
 
 ## Results
 
+![lda-vis](lda-vis.png)
 
 
 ## Other methods 
